@@ -207,3 +207,29 @@
 .text-element-body-long.show {
   top: 0;
 }
+
+#whatis{
+  background-color: red;
+  height: 100vh;
+  display: flex;
+}
+
+.centerwhat{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+#which{
+  display: flex;
+  height: 100vh;
+  background-color: blue;
+}
+
+.jenis{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
